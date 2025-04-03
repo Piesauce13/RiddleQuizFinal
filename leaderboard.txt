@@ -1,9 +1,0 @@
-Kazuha,4,25
-Piesauce13,9,27
-Elizabeth,8,56
-ui,4,178
-Martin,8,41
-pissoth,9,35
-user3,4,78
-Lily,9,22
-Louis,9,29
